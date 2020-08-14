@@ -2,8 +2,7 @@ import React from "react";
 
 function Table(props) {
     const employees = props.employees.map(employee => 
-        <tr>
-            <th>{employee.id}</th>
+        <tr key={employee.id}>
             <td>{employee.first_name}</td>
             <td>{employee.last_name}</td>
             <td>{employee.email}</td>
@@ -16,7 +15,6 @@ function Table(props) {
             <table className="table text-center">
                 <thead>
                     <tr>
-                        <th scope="col">ID</th>
                         <th scope="col">First Name</th>
                         <th scope="col">Last Name</th>
                         <th scope="col">Email</th>
