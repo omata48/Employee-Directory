@@ -10,6 +10,8 @@ If the manager wishes to revert the filters, they can reset the list to the orig
 
 Working App Demo: [Application Video](https://drive.google.com/file/d/1j9SGTIx5eJgfrZ9c3hfzptF7QDQ-vLVk/view)
 
+Link to Website: [Employee Directory Site](https://omata48.github.io/Employee-Directory/)
+
 ![Demo](./images/working_app.gif)
 
 ## Table of Contents
