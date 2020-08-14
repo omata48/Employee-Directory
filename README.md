@@ -6,7 +6,7 @@
   
 Application to show list of employees to manager. Gives the option to sort the list of empoloyees by First name or to filter the list by job titles that contain "Engineer". 
 
-If the manager wishes to revert the filters, they can reset the list to the original employee list.
+If the manager wishes to revert the filters, they can reset the list to the original employee list. The site is also developed with componenets to allow scalability such as adding new filters or methods to sort if requested. 
 
 Working App Demo: [Application Video](https://drive.google.com/file/d/1j9SGTIx5eJgfrZ9c3hfzptF7QDQ-vLVk/view)
 
